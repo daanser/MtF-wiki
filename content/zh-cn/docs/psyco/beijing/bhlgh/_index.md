@@ -96,6 +96,10 @@ collapsible: true
 
 开具的诊断证明在二楼分诊台盖章。
 
+诊断证明书如下。
+
+{{< watermark "di-xiaolan/proof.jpg" >}}
+
 #### 开具诊断证明书使用的各类材料的模板
 
 ##### 知情同意书
